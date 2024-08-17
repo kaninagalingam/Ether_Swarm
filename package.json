@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@ethersphere/bee-js": "^7.1.0",
+    "axios": "^1.7.2",
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "path": "^0.12.7"
+  }
+}
